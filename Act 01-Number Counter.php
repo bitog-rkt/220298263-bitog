@@ -6,13 +6,13 @@
     <title>Act 01-Number Counter</title>
 </head>
 <body>
-    
-    <?php $counting = 1;
+
+    <?php $counting = 2;
 
     while ($counting <= 20) {
-    
+        
         echo $counting."  ";
-        $counting +=1; }
+        $counting +=2; }
     ?>
 
 </body>
